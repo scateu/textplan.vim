@@ -68,3 +68,4 @@ Credit
  - https://github.com/leahneukirchen/wcal
  - Alistair Method
  - Gemini 2.5 pro
+ - Bullet Journal
