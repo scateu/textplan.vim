@@ -6,9 +6,8 @@ if &compatible || v:version < 700
     finish
 endif
 
-highlight default link TextplanDateLine Comment
-highlight default link TextplanDateLineWithoutMonth NonText
+highlight default link TextplanDateLine Title
+highlight default link TextplanDateLineWithoutMonth Constant
 
-"highlight TextplanDateLine guifg=#BBBBBB ctermfg=LightGray
-"highlight TextplanWeekLine guifg=#888888 ctermfg=DarkGray
-
+"""Comment NonText
+""" Title Constant Identifier Statement PreProc Type Special

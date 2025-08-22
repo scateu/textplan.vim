@@ -45,4 +45,4 @@ call add(b:textplan_match_ids, matchadd('TextplanDateLineWithoutMonth', s:date_l
 
 " Optional: A message to confirm the plugin has loaded for this filetype.
 " You can comment this out once you know it's working.
-echo "Textplan plugin activated for this buffer."
+"echo "Textplan plugin activated for this buffer."
