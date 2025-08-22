@@ -28,3 +28,4 @@ Credit
  - Alistair Method
  - Gemini 2.5 pro
  - Bullet Journal
+ - Org Mode: org-agenda
