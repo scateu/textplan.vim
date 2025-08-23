@@ -9,8 +9,8 @@ This plugin only takes effect on `*.plan` or `plan` file.
 
 INSTALL
 =======
-    mkdir -p ~/.vim/pack/plugins/
-    cd ~/.vim/pack/plugins/
+    mkdir -p ~/.vim/pack/plugins/start
+    cd ~/.vim/pack/plugins/start
     git clone https://github.com/scateu/textplan.vim
 
 Example
