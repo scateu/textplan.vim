@@ -34,9 +34,10 @@ Example
 Design Considerations
 =====================
 
-1. No automation. User do all things manually, such as sort, status update, archive, and date change. So there's no need to worry about data flying to location you don't know.
-2. Benifit: Users are forced to review all things regularly, because of being involved in all operation.
-3. Use Bojo-style keys instead of `- [ ]`, provides more status tracking.
+1. **No automation.** User has to do all things manually, such as sort, status update, archive, and date change. 
+  - Benifit 1: So there's no need to worry about data flying to location you don't know.
+  - Benifit 2: Users are forced to review all things regularly, because of being involved in each operation.
+2. Use Bujo-style keys instead of `- [X]`, provides more status tracking.
 
 Credit
 ======
