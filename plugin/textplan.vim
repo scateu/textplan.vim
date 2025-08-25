@@ -17,3 +17,8 @@ highlight default link TextplanBulletJournalPatternEVENT Type
 highlight default link TextplanBulletJournalPatternIMPORTANT Statement
 """Comment NonText
 """ Title Constant Identifier Statement PreProc Type Special
+
+
+highlight default link markdownHeader1 Type
+highlight default link orgHeader1 Type
+
