@@ -1,7 +1,7 @@
 What this plugin do?
 ====================
 
-You are tired of online calendar. Get a plain calendar file with [wcal](https://github.com/leahneukirchen/wcal). Or copy one from [`calendar/`](https://github.com/scateu/textplan.vim/tree/main/calendar)
+Your todo list bankrupts every 3 months. You are tired of online calendar. Get a plain calendar file with [wcal](https://github.com/leahneukirchen/wcal). Or copy one from [`calendar/`](https://github.com/scateu/textplan.vim/tree/main/calendar)
 
 1. Highlight date lines; Highlight bullet-journal-style symbol lines
 
