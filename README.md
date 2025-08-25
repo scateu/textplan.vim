@@ -15,6 +15,31 @@ OR add this mode line to any text file:
 " vim: set ft=textplan:
 ```
 
+SYNTAX
+======
+
+```
+Calendar line: 
+
+34 Aug  18 19 20 21 22 23 24
+
+OR
+
+34      18 19 20 21 22 23 24
+
+Item:
+
+                  o           Description. Press << or >> will shift date left/right
+            .                 Can be other symbols
+
+ ! As long as leading spaces >= 1
+
+
+* Chapter 1: Press Tab Here: Foldable
+
+# Chapter 2: * # treated equally
+```
+
 INSTALL
 =======
     mkdir -p ~/.vim/pack/plugins/start
