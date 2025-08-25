@@ -34,7 +34,7 @@ INSTALL
 Example
 =======
 
-![ezgif-2454189dc7d8ac](https://github.com/user-attachments/assets/582d0fe5-e26b-4edc-98fa-08457adb2b37)
+![ezgif-3139af8b65d454](https://github.com/user-attachments/assets/7e7ff134-58a0-460d-9a7d-48bf5f783966)
 
 [Youtube1](https://youtube.com/shorts/q89Pi-I9gOQ?feature=share) [Youtube2](https://youtube.com/shorts/iFs2oQF_3LY)
 
