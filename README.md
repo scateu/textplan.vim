@@ -18,8 +18,10 @@ Example
 
 ![textplan](https://github.com/user-attachments/assets/1378c087-957f-4bad-855b-951f384e1ac2)
 
-
 [Youtube](https://youtube.com/shorts/q89Pi-I9gOQ?feature=share)
+
+<img width="416" height="631" alt="Screenshot 2025-08-25 at 10 25 10" src="https://github.com/user-attachments/assets/d4b2b53d-b4ad-4539-862e-4899770b8837" />
+<img width="250" height="271" alt="Screenshot 2025-08-25 at 10 25 19" src="https://github.com/user-attachments/assets/13312c96-0794-476e-be5d-f27b816b93a9" />
 
 Credit
 ======
