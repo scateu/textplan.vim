@@ -14,5 +14,6 @@ highlight default link TextplanBulletJournalPatternDOING Title
 highlight default link TextplanBulletJournalPatternDONE Comment
 highlight default link TextplanBulletJournalPatternMAYBE Constant
 highlight default link TextplanBulletJournalPatternEVENT Type
+highlight default link TextplanBulletJournalPatternIMPORTANT Statement
 """Comment NonText
 """ Title Constant Identifier Statement PreProc Type Special

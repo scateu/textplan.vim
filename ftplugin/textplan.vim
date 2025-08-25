@@ -40,16 +40,18 @@ call add(b:textplan_match_ids, matchadd('TextplanDateLineWithoutMonth', s:date_l
 
 
 " . / x - = ?  $ o < > * + !
-let s:bullet_journal_pattern_todo = '^\s\+[.*+]\s.*$'
+let s:bullet_journal_pattern_todo = '^\s\+[.+]\s.*$'
 let s:bullet_journal_pattern_doing = '^\s\+[/]\s.*$'
 let s:bullet_journal_pattern_done = '^\s\+[x]\s.*$'
-let s:bullet_journal_pattern_event = '^\s\+[$o!]\s.*$'
+let s:bullet_journal_pattern_event = '^\s\+[$o]\s.*$'
 let s:bullet_journal_pattern_maybe = '^\s\+[-=?<>]\s.*$'
+let s:bullet_journal_pattern_important = '^\s\+[!*+]\s.*$'
 call add(b:textplan_match_ids, matchadd('TextplanBulletJournalPatternTODO', s:bullet_journal_pattern_todo))
 call add(b:textplan_match_ids, matchadd('TextplanBulletJournalPatternDOING', s:bullet_journal_pattern_doing))
 call add(b:textplan_match_ids, matchadd('TextplanBulletJournalPatternDONE', s:bullet_journal_pattern_done))
 call add(b:textplan_match_ids, matchadd('TextplanBulletJournalPatternEVENT', s:bullet_journal_pattern_event))
 call add(b:textplan_match_ids, matchadd('TextplanBulletJournalPatternMAYBE', s:bullet_journal_pattern_maybe))
+call add(b:textplan_match_ids, matchadd('TextplanBulletJournalPatternIMPORTANT', s:bullet_journal_pattern_important))
 
 " Optional: A message to confirm the plugin has loaded for this filetype.
 " You can comment this out once you know it's working.
