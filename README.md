@@ -47,3 +47,4 @@ Credit
  - Gemini 2.5 pro
  - Bullet Journal
  - Org Mode: org-agenda
+ - Marc Andreessen's Method: {Todo, Watch, Later} List
