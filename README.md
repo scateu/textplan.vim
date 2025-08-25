@@ -31,6 +31,13 @@ Example
 <img width="416" height="631" alt="Screenshot 2025-08-25 at 10 25 10" src="https://github.com/user-attachments/assets/d4b2b53d-b4ad-4539-862e-4899770b8837" />
 <img width="250" height="271" alt="Screenshot 2025-08-25 at 10 25 19" src="https://github.com/user-attachments/assets/13312c96-0794-476e-be5d-f27b816b93a9" />
 
+Design Considerations
+=====================
+
+1. No automation. User do all things manually, such as sort, status update, archive, and date change. So there's no need to worry about data flying to location you don't know.
+2. Benifit: Users are forced to review all things regularly, because of being involved in all operation.
+3. Use Bojo-style keys instead of `- [ ]` which provides more status tracking.
+
 Credit
 ======
 
