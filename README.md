@@ -19,25 +19,35 @@ SYNTAX
 ======
 
 ```
-Calendar line: 
+Calendar Line: 
 
 34 Aug  18 19 20 21 22 23 24
-
 OR
-
 34      18 19 20 21 22 23 24
 
-Item:
-
+Item Line:
                   o           Description. Press << or >> will shift date left/right
-            .                 Can be other symbols
+                        =     Waiting for someone
+            .                 Can be any other symbol you like
 
  ! As long as leading spaces >= 1
 
 
 * Chapter 1: Press Tab Here: Foldable
+37       8  9 10 11 12 13 14
+38      15 16 17 18 19 20 21
+39      22 23 24 25 26 27 28
 
 # Chapter 2: * # treated equally
+
+
+# Projects
+Project 1:
+ x Done something
+ . Do something
+Project 2:
+ = Waiting for someone
+ x Done something
 ```
 
 INSTALL
