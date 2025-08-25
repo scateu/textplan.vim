@@ -1,8 +1,10 @@
 What this plugin do?
 ====================
 
-0. You are tired of online calendar. Get a plain calendar file with [wcal](https://github.com/leahneukirchen/wcal). Or copy one from [`calendar/`](https://github.com/scateu/textplan.vim/tree/main/calendar)
-1. Match date lines, give it a pretty highlight
+You are tired of online calendar. Get a plain calendar file with [wcal](https://github.com/leahneukirchen/wcal). Or copy one from [`calendar/`](https://github.com/scateu/textplan.vim/tree/main/calendar)
+
+1. Highlight date lines; Highlight bullet-journal-style symbol lines
+
 2. `>>` `<<` on event lines, shift the bullet left and right accordingly. Out-of-bound bullets will be discarded.
 
 This plugin only takes effect on `*.plan` or `plan` file.
