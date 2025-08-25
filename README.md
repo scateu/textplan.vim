@@ -7,6 +7,12 @@ What this plugin do?
 
 This plugin only takes effect on `*.plan` or `plan` file.
 
+OR add this mode line to any text file:
+
+```
+" vim: set ft=textplan:
+```
+
 INSTALL
 =======
     mkdir -p ~/.vim/pack/plugins/start
